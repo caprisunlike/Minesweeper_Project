@@ -1,0 +1,16 @@
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.csproj.GenerateResource.cache
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.AssemblyInfoInputs.cache
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.AssemblyInfo.cs
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\bin\Debug\net6.0-windows\finalproject.exe
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\bin\Debug\net6.0-windows\finalproject.deps.json
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\bin\Debug\net6.0-windows\finalproject.runtimeconfig.json
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\bin\Debug\net6.0-windows\finalproject.dll
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\bin\Debug\net6.0-windows\finalproject.pdb
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.dll
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\refint\finalproject.dll
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.pdb
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.genruntimeconfig.cache
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\ref\finalproject.dll
+C:\Users\hwang\세종대\4-1\c#\finalproject\finalproject\obj\Debug\net6.0-windows\finalproject.Form1.resources
