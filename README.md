@@ -1,3 +1,4 @@
+# 지뢰찾기 게임 - C# 개인프로젝트 2024-1
 ![슬라이드2](https://github.com/user-attachments/assets/562b443f-8587-497c-abeb-5bdc324fb373)
 ![슬라이드3](https://github.com/user-attachments/assets/2b0dac93-ec29-4aad-9426-64f51043f161)
 ![슬라이드4](https://github.com/user-attachments/assets/ee58556e-d52d-4ded-b9af-99a634fa39e3)
